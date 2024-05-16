@@ -68,5 +68,4 @@ def play_bingo():
                 current_player=2
             else:
                 curent_player=1
-
 play_bingo()
